@@ -1,0 +1,76 @@
+{
+    "users": [
+      {
+        "fullName": "test user",
+        "email": "test1@gmail.com",
+        "password": "1234",
+        "id": "1"
+      },
+      {
+        "fullName": "test Data",
+        "email": "test@gmail.com",
+        "password": "1234",
+        "id": "2"
+      },
+      {
+        "id": "4415",
+        "fullName": "Rivaldo Cortez",
+        "email": "elirivaldocortezflores@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "266e",
+        "fullName": "",
+        "email": "elirivaldocortezflores@gmail.com",
+        "password": ""
+      },
+      {
+        "id": "e5fa",
+        "fullName": "Rivaldo Cortez",
+        "email": "elirivaldocortezflores@gmail.com",
+        "password": "12345"
+      },
+      {
+        "id": "0add",
+        "fullName": "ian",
+        "email": "iansanchez12@gmail.com",
+        "password": "890"
+      },
+      {
+        "id": "6a71",
+        "fullName": "r",
+        "email": "r@gmail.com",
+        "password": "r"
+      },
+      {
+        "fullName": "pablito rodriguez",
+        "email": "pablito10@gmail.com",
+        "password": "123",
+        "id": "adrOm2J"
+      },
+      {
+        "fullName": "juanito apellido",
+        "email": "juanitoapellido10@gmail.com",
+        "password": "123",
+        "id": "lVp6dXR"
+      },
+      {
+        "fullName": "ty",
+        "email": "00@gmail.com",
+        "password": "000",
+        "id": "H0pKn7H"
+      },
+      {
+        "fullName": "juan",
+        "email": "juan@gmail.com",
+        "password": "juan123",
+        "id": "frMPfQU"
+      },
+      {
+        "fullName": "pablito rodriguez",
+        "email": "pablitorodriguez@gmail.com",
+        "password": "123",
+        "id": "OcKBzuY"
+      }
+    ]
+  }
